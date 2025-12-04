@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Grandmaster Chess",
+  "description": "A premium 2D chess experience powered by the Stockfish engine. Play against a grandmaster-level chess engine, or analyze your own games with real-time evaluation. Features a modern, responsive design with move history and captured pieces tracking.",
+  "requestFramePermissions": []
+}
